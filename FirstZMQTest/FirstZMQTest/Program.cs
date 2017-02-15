@@ -13,7 +13,7 @@ namespace FirstZMQTest
         static void Main(string[] args)
         {
             using (var server = new ResponseSocket()) {
-
+                server.Bind("tcp://*:5567");
             }
         }
     }
