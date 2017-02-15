@@ -29,6 +29,7 @@ namespace NetMQClient
                     if (message == "exit")
                     {
                         break;
+
                     }
                 }
             }
