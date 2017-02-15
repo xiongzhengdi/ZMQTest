@@ -1,0 +1,8 @@
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\NetMQClient.exe.config
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\NetMQClient.exe
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\NetMQClient.pdb
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\NetMQ.dll
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\AsyncIO.dll
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\bin\Debug\NetMQ.pdb
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\obj\Debug\NetMQClient.exe
+D:\中辉项目\zmq\SecondNetMQTest\NetMQClient\obj\Debug\NetMQClient.pdb
